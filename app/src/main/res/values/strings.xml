@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ClienteSocket</string>
+    <string name="txtMensaje">Mensaje</string>
+    <string name="txtEnviar">Enviar</string>
 </resources>
